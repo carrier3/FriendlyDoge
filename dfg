@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Friendly Doge</title>
+    <style>
+
+      h1 {text-align: center;
+          font-family: monospace;
+          font-size: 50px}
+
+      p {text-align: center;
+          font-family: Arial;}
+
+      iframe {text-align: center;}
+
+      body {background-image: url('original.gif');
+            color: white;}
+
+      div {border: 1px solid white;
+            margin-top: 100px;
+            width: 800px;
+            margin: auto;
+            background-color: rgba(0,20,200,0.6);;
+           }
+
+    </style>
+
+</script>
+  </head>
+  <body>
+    <div>
+    <p>Welcome to:</p>
+    <h1>Friendly<br>Doge!</h1>
+    <p>See game below</p>
+    <p><iframe src="https://scratch.mit.edu/projects/542395207/embed" allowtransparency="true" width="700" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
+    </div>
+    
+  </body>
+</html>
