@@ -1,5 +1,7 @@
 # FriendlyDoge
 
+Link to the temporary site - https://friendlydoge.creed3.repl.co/
+
 This project contains an embedded Dogecoin mini game which I have created using Scratch. 
 Instructions on how to play the game are stated on the page.
 The page also features a glowing title font, an animated background that I designed through Canva, a separate css file,
